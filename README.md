@@ -1,8 +1,8 @@
 # Olá! Eu sou o Luiz! 
 
-- 🎓 **Formação Acadêmica**: Cursando Análise e Desenvolvimento de Sistemas.
+- 🎓 **Formação Acadêmica**: Graduado em Análise e Desenvolvimento de Sistemas.
 - 💻 **Formação Growdev**: PS Full Stack Web Developer.
-- 🖥️ **Experiência Profissional**: Atualmente sou auxiliar de TI na Prefeitura de minha cidade. <br> Soluciono problemas de hardware e software exclusivamente na área de saúde.
+- 🖥️ **Experiência Profissional**: Atuei como auxiliar de TI na Prefeitura de minha cidade. <br> Solucionei problemas de hardware e software exclusivamente na área de saúde.
 - <img align="center" alt="Luiz-Js" height="15" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> JavaScript é a linguagem de programação com a qual tenho maior experiência!
 - 📖 Hoje meu principal hobbie é a leitura!
 
